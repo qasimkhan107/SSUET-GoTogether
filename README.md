@@ -152,6 +152,54 @@ npm run dev
 
 ---
 
+## 📸 Screenshots
+
+### Home
+![Home](screenshots/home.png)
+
+### Login
+![Login](screenshots/login.PNG)
+
+### Register
+![Register](screenshots/register.PNG)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Create Ride
+![Create Ride](screenshots/create-ride.png)
+
+### Ride Management (My Rides)
+![Ride Management](screenshots/ride-management.PNG)
+
+### Notifications
+![Notifications](screenshots/notifications.PNG)
+
+### Vehicle
+![Vehicle](screenshots/vehicle.PNG)
+
+### Profile
+![Profile](screenshots/profile.png)
+
+### Driver Verification
+![Driver Verification](screenshots/driver-verification.PNG)
+
+### Passenger Verification Requests
+![Passenger Verification Requests](screenshots/verification-requests.PNG)
+
+### Admin Dashboard
+![Admin Dashboard](screenshots/admin-dashboard.PNG)
+
+### Users
+![Users](screenshots/users.PNG)
+
+### Settings
+![Settings](screenshots/settings.png)
+
+### Forgot Password
+![Forgot Password](screenshots/forgotpassword.PNG)
+
+
 ## Environment Variables
 
 Do **NOT** commit your real `.env` files.
