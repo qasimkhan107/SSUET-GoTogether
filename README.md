@@ -2,6 +2,14 @@
 
 A full-stack MERN-based ride-sharing platform developed for Sir Syed University of Engineering & Technology (SSUET). The system enables students and faculty to create rides, book available rides, manage vehicles, receive notifications, submit reviews, and securely authenticate using SSUET email accounts.
 
+## 🌐 Live Demo
+
+**Frontend:** https://ssuet-go-together.vercel.app
+
+**Backend API:** https://ssuet-gotogether-production.up.railway.app
+
+---
+
 ---
 
 ## ✨ Features
