@@ -21,7 +21,17 @@ import adminRoutes from "./routes/adminRoutes.js";
 const app = express();
 
 // Middleware
-app.use(cors());
+app.use(
+  cors({
+    origin: [
+      "http://localhost:5173",
+      "https://ssuet-go-together.vercel.app",
+    ],
+    methods: ["GET", "POST", "PUT", "PATCH", "DELETE"],
+    credentials: true,
+  })
+);
+
 app.use(
   helmet({
     crossOriginResourcePolicy: {
